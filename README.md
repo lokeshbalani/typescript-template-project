@@ -1,2 +1,3 @@
-# typescript-template-project
-Template Project for initializing TypeScript projects
+# Typescript Project Template
+
+Template for initializing TypeScript projects
